@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**dperss/dperss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Heyo :wave: Devs, 
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dperss/dperss/master/img/github.gif" width=100>
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+### Programming Languages  :rocket:
+|<img src="https://raw.githubusercontent.com/dperss/dperss/master/img/cpp.png" width=60> |
+<img src="https://raw.githubusercontent.com/dperss/dperss/master/img/js.png" width=60> | 
+|:---:|:---:|:---:|
+
+
+### Tools :fire:
+ <img src="https://raw.githubusercontent.com/dperss/dperss/master/img/github.svg" width=60> |
+ <img src="https://raw.githubusercontent.com/dperss/dperss/master/img/intellig.png" width=60> |
+|:---:|:---:|:---:|
+
+
+
+<br/><br/>
+
+
