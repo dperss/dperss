@@ -9,7 +9,7 @@
 
 ### Programming Languages  :rocket:
 <img src="https://raw.githubusercontent.com/dperss/dperss/master/img/java.png" width=60> |
-|<img src="https://raw.githubusercontent.com/dperss/dperss/master/img/cpp.png" width=60> |
+<img src="https://raw.githubusercontent.com/dperss/dperss/master/img/cpp.png" width=60> |
 <img src="https://raw.githubusercontent.com/dperss/dperss/master/img/js.png" width=60> 
 
 
